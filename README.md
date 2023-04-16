@@ -19,7 +19,7 @@
           <b><i>💡Luv software development (and music) in general.</i></b><br>
         </td>
         <td align="center">
-          <a href="#blank"><img src="https://media.tenor.com/2z7NVAVjM_YAAAAd/guts-berserk.gif"  title="Some anime gif" alt="Some anime gif"></a>
+          <a href="#blank"><img src="https://wiki.supercombo.gg/images/8/89/OChris02_stance.gif"  title="Some anime gif" alt="Some anime gif"></a>
         </td>
       </tr>
       <tr>
