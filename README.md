@@ -15,7 +15,7 @@
       <tr>
         <td colspan="1" align="justify">
           <b><i>🎓 Graduating on PUC-GO.</i></b><br>
-          <b> <i> 💻 Currently working as a Web Developer.</i><b><br>
+          <b> <i> 💻 Currently working as Full Stack Web Developer.</i><b><br>
           <b><i>💡Luv software development (and music) in general.</i></b><br>
         </td>
         <td align="center">
