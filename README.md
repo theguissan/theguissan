@@ -58,6 +58,7 @@
           <a href="https://www.linkedin.com/in/matheus-santana-3923461a8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
           <a href="https://www.last.fm/user/THXUS"><img src="https://img.shields.io/badge/Last.fm-E23237?style=flat&logo=last.fm&logoColor=white"></a>
           <a href="https://twitter.com/theguissan"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=flat&logo=twitter&logoColor=blue"></a>
+          <a href="https://www.instagram.com/theguissan/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
           <a href="https://www.microsoft.com/software-download/windows11"><img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=flat&logo=microsoft&logoColor=blue"></a>
           <a href="_blank"><img src="https://img.shields.io/badge/OS-Pop!_OS_\_Ubuntu_WSL-FFFFFF?style=flat&logo=linux&logoColor=black"></a>
