@@ -13,13 +13,13 @@
         </td>
       </tr>
       <tr>
+        <td align="center">
+          <a href="#blank"><img src="https://www.fightersgeneration.com/characters4/yashiro-pushups.gif" width="30%"  title="Some anime gif" alt="Some anime gif"></a>
+        </td>
         <td colspan="1" align="justify">
           <b><i>🎓 Graduating from PUC-GO.</i></b><br>
           <b> <i> 💻 Currently working as Full Stack Web Developer.</i><b><br>
           <b><i>💡Luv software development (and music) in general.</i></b><br>
-        </td>
-        <td align="center">
-          <a href="#blank"><img src="https://wiki.supercombo.gg/images/8/89/OChris02_stance.gif"  title="Some anime gif" alt="Some anime gif"></a>
         </td>
       </tr>
       <tr>
