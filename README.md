@@ -36,11 +36,13 @@
               <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
               <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
               <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+              <br/>
               <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
               <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
               <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=black">
               <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
               <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
+              <br/>
               <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white">
               <img src="https://img.shields.io/badge/C-3776AB?style=flat&logo=c&logoColor=white">
               <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
