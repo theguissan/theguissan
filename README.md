@@ -49,7 +49,7 @@
             </a>
           <br><p><b>📚「 STUDYING 」</b></p>
             <a href="#blank">
-              <img src="https://img.shields.io/badge/clang-3776AB?style=flat&logo=c&logoColor=white">
+               <img src="https://img.shields.io/badge/clang-3776AB?style=flat&logo=c&logoColor=white">
                <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=black">
                <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
             </a>
