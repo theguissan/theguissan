@@ -49,9 +49,11 @@
             </a>
           <br><p><b>📚「 STUDYING 」</b></p>
             <a href="#blank">
-               <img src="https://img.shields.io/badge/C-3776AB?style=flat&logo=c&logoColor=white">
+<!--                <img src="https://img.shields.io/badge/C-3776AB?style=flat&logo=c&logoColor=white">
                <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=black">
-               <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+               <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> -->
+               <img src="https://img.shields.io/badge/Ruby-5F021F?style=flat&logo=ruby&logoColor=white">
+               <img src="https://img.shields.io/badge/Rails-5F021F?style=flat&logo=ruby-on-rails&logoColor=white">
             </a>
         </td>
         <td colspan="1" align="center">
