@@ -25,9 +25,11 @@
       <tr>
         <td colspan="1" align="center">
           <p><b>🛠️「 TOOLS 」</b></p>
-            <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=0078D4">
+            <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-white?style=flat&logo=visual%20studio%20code&logoColor=0078D4">
             </a>
-            <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/IDE-Eclipse-2D2252?style=flat&logo=eclipse&logoColor=2D2252">
+            <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-orange?style=flat&logo=eclipse&logoColor=2D2252">
+            </a>
+            <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ-6B57FF?style=flat&logo=intellijidea&logoColor=FF318C">
             </a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
             <a href="#blank">
@@ -52,8 +54,8 @@
 <!--                <img src="https://img.shields.io/badge/C-3776AB?style=flat&logo=c&logoColor=white">
                <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=black">
                <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> -->
-               <img src="https://img.shields.io/badge/Ruby-5F021F?style=flat&logo=ruby&logoColor=white">
-               <img src="https://img.shields.io/badge/Rails-5F021F?style=flat&logo=ruby-on-rails&logoColor=white">
+               <img src="https://img.shields.io/badge/Gitlab-white?style=flat&logo=gitlab&logoColor=orange">
+               <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=blue">
             </a>
         </td>
         <td colspan="1" align="center">
