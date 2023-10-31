@@ -14,12 +14,12 @@
       </tr>
       <tr>
         <td align="center">
-          <a href="#blank"><img src="https://www.fightersgeneration.com/characters4/yashiro-pushups.gif" width="30%"  title="Some anime gif" alt="Some anime gif"></a>
+          <a href="#blank"><img src="https://steamuserimages-a.akamaihd.net/ugc/90472114705174546/41ED95ACE18D194A63D0DE3F826EA01B5F3D34DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%"  title="Some anime gif" alt="Some anime gif"></a>
         </td>
-        <td colspan="1" align="justify">
-          <b><i>🎓 Graduating from PUC-GO.</i></b><br>
-          <b> <i> 💻 Currently working as Full Stack Web Developer.</i><b><br>
-          <b><i>💡Luv software development (and music) in general.</i></b><br>
+        <td colspan="1" align="">
+          <b><p>🎓 Graduating from PUC-GO.</p></b>
+          <b><p>💻 Currently working as Full Stack Web Developer.</i><p>
+          <b><p>💡 Luv software development (and music) in general.</p></b>
         </td>
       </tr>
       <tr>
@@ -51,9 +51,6 @@
             </a>
           <br><p><b>📚「 STUDYING 」</b></p>
             <a href="#blank">
-<!--                <img src="https://img.shields.io/badge/C-3776AB?style=flat&logo=c&logoColor=white">
-               <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=black">
-               <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> -->
                <img src="https://img.shields.io/badge/Gitlab-white?style=flat&logo=gitlab&logoColor=orange">
                <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=blue">
             </a>
@@ -70,56 +67,3 @@
           <a href="_blank"><img src="https://img.shields.io/badge/OS-Pop!_OS_\_Ubuntu_WSL-FFFFFF?style=flat&logo=linux&logoColor=black"></a>
         </td>
       </tr>
-<!--       <tr>
-        <td colspan="2">
-          <details>
-            <summary><b>⚡ Events/Experiences</b></summary>
-            <table align="center">
-              <thead align="center">
-                <tr>
-                  <th>Icon</th>
-                  <th>Name</th>
-                  <th>Company</th>
-                  <th>Date</th>
-                  <th>Learned</th>
-                </tr>
-              </thead>
-              <tbody align="center">
-                <tr>
-                  <td>
-                    <img src="https://github.com/TreinaDev.png" width="25px" style="vertical-align: middle;" />
-                  </td>
-                  <td><a href="https://treinadev.com.br/" target="_blank">TreinaDev 7</a></td>
-                  <td>Campus Code</td>
-                  <td>2021</td>
-                  <td>
-                    Git, Signing Keys,<br/>
-                    Ruby v3, Rails v6,<br/>
-                    TDD, Following Conventions,<br/>
-                    Linting, Pair Programming,<br/>
-                    Daily Meeting
-                  </td>
-                </tr> -->
-              </tbody>
-            </table>
-          </details>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<!--
-**LeDragoX/LeDragoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
