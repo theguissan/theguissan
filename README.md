@@ -18,7 +18,7 @@
         </td>
         <td colspan="1" align="">
           <b><p>🎓 Graduating from PUC-GO.</p></b>
-          <b><p>💻 Currently working as Full Stack Web Developer.</i><p>
+          <b><p>💻 Currently working as DevOps Engineer.</i><p>
           <b><p>💡 Luv software development (and music) in general.</p></b>
         </td>
       </tr>
@@ -27,9 +27,7 @@
           <p><b>🛠️「 TOOLS 」</b></p>
             <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-white?style=flat&logo=visual%20studio%20code&logoColor=0078D4">
             </a>
-            <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-orange?style=flat&logo=eclipse&logoColor=2D2252">
-            </a>
-            <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ-6B57FF?style=flat&logo=intellijidea&logoColor=FF318C">
+            <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-green?style=flat&logo=neovim&logoColor=2D2252">
             </a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
             <a href="#blank">
@@ -51,7 +49,7 @@
             </a>
           <br><p><b>📚「 STUDYING 」</b></p>
             <a href="#blank">
-               <img src="https://img.shields.io/badge/Gitlab-white?style=flat&logo=gitlab&logoColor=orange">
+               <img src="https://img.shields.io/badge/GitHub Actions-white?style=flat&logo=github&logoColor=black">
                <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=blue">
             </a>
         </td>
