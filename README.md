@@ -25,7 +25,7 @@
       <tr>
         <td colspan="1" align="center">
           <p><b>🛠️「 TOOLS 」</b></p>
-            <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-white?style=flat&logo=visual%20studio%20code&logoColor=0078D4">
+            <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=flat&logo=visual-studio-code&logoColor=0078D4">
             </a>
             <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-green?style=flat&logo=neovim&logoColor=2D2252">
             </a>
@@ -49,7 +49,7 @@
             </a>
           <br><p><b>📚「 STUDYING 」</b></p>
             <a href="#blank">
-               <img src="https://img.shields.io/badge/GitHub Actions-white?style=flat&logo=github&logoColor=black">
+               <img src="https://img.shields.io/badge/GitHub Actions-white?style=flat&logo=githubactions&logoColor=black">
                <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=blue">
             </a>
         </td>
@@ -61,7 +61,8 @@
           <a href="https://twitter.com/theguissan"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=flat&logo=twitter&logoColor=blue"></a>
           <a href="https://www.instagram.com/theguissan/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
-          <a href="https://www.microsoft.com/software-download/windows11"><img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=flat&logo=microsoft&logoColor=blue"></a>
-          <a href="_blank"><img src="https://img.shields.io/badge/OS-Pop!_OS_\_Debian-FFFFFF?style=flat&logo=linux&logoColor=black"></a>
+          <a href="https://www.microsoft.com/software-download/windows11"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=blue"></a>
+          <a href="_blank"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white"></a>
+          <a href="_blank"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff"></a>
         </td>
       </tr>
