@@ -62,7 +62,6 @@
           <a href="https://www.instagram.com/theguissan/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
           <a href="https://www.microsoft.com/software-download/windows11"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=blue"></a>
-          <a href="_blank"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white"></a>
           <a href="_blank"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff"></a>
         </td>
       </tr>
