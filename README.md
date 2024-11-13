@@ -51,6 +51,7 @@
             <a href="#blank">
                <img src="https://img.shields.io/badge/GitHub Actions-white?style=flat&logo=githubactions&logoColor=black">
                <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=blue">
+               <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
             </a>
         </td>
         <td colspan="1" align="center">
