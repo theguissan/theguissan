@@ -3,7 +3,7 @@
     <thead>
       <tr>
         <th align="left">⚙️ theguissan</th>
-        <th align="right">│⠀⠀🗕⠀⠀│⠀⠀🗗⠀⠀│⠀⠀🗙⠀⠀│</th>
+        <th align="right">│  🗕  │  🗗  │  🗙  │</th>
       </tr>
     </thead>
     <tbody>
@@ -14,7 +14,7 @@
       </tr>
       <tr>
         <td align="center">
-          <a href="#blank"><img src="https://steamuserimages-a.akamaihd.net/ugc/90472114705174546/41ED95ACE18D194A63D0DE3F826EA01B5F3D34DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%"  title="Some anime gif" alt="Some anime gif"></a>
+          <a href="#blank"><img src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAd/lain-serial-experiments-lain.gif" width="450px" height="auto"  title="Some anime gif" alt="Some anime gif"></a>
         </td>
         <td colspan="1" align="">
           <b><p>🎓 Graduating from PUC-GO.</p></b>
