@@ -9,7 +9,7 @@
     <tbody>
        <tr>
         <td colspan="2" align="center">
-          <h2 align="center"><i>Hi there! Matheus here!👋</i></h2>
+          <h2 align="center"><i>Hi there! Matheus here!</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
         </td>
       </tr>
       <tr>
@@ -63,6 +63,19 @@
           <a href="https://www.instagram.com/theguissan/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
           <a href="https://www.microsoft.com/software-download/windows11"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=blue"></a>
-          <a href="_blank"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff"></a>
+          <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff"></a>
         </td>
       </tr>
+            <tr>
+              <td align="center">
+                  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=theguissan&theme=highcontrast&show_icons=true&count_private=true" />
+                <br></br>
+              <img  align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theguissan&theme=highcontrast&hide_border=false" /> 
+              </td>
+              <td align="center">     
+                  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=theguissan&theme=highcontrast&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+              </td>
+            </tr>
+          </table>
+
+
