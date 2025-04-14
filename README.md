@@ -17,7 +17,7 @@
           <a href="#blank"><img src="https://cdn.dribbble.com/userupload/22486541/file/original-3f53dd08794d205c2119130a46bfb088.gif" width="450px" height="auto"  title="Some anime gif" alt="Some anime gif"></a>
         </td>
         <td colspan="1" align="">
-          <b><p>🎓 Bachelor in Computer Engineering.</p></b>
+          <b><p>🎓 Bachelor in Computer Engineering at PUC-GO.</p></b>
           <b><p>💻 Currently working as DevOps Engineer.</i><p>
           <b><p>💡 Luv software development (and music) in general.</p></b>
         </td>
