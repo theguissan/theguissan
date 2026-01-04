@@ -64,7 +64,7 @@
           <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff"></a>
         </td>
       </tr>
-            <tr>
+            <!-- <tr>
               <td align="center">
                   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=theguissan&theme=highcontrast&show_icons=true&count_private=true" />
                 <br></br>
@@ -73,7 +73,7 @@
               <td align="center">     
                   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=theguissan&theme=highcontrast&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
               </td>
-            </tr>
+            </tr> -->
           </table>
 
 
