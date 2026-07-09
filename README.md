@@ -34,22 +34,23 @@
               <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
               <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
               <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-              <br/>
               <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=yellow">
               <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
+              <br/>
               <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=black">
               <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
               <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
-              <br/>
-              <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white">
               <img src="https://img.shields.io/badge/C-3776AB?style=flat&logo=c&logoColor=white">
               <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+              <br/>
+             <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=blue">
+             <img src="https://img.shields.io/badge/Azure-blue?style=flat&logo=azure-devops&logoColor=blue">
             </a>
           <br><p><b>📚「 STUDYING 」</b></p>
             <a href="#blank">
-               <img src="https://img.shields.io/badge/GitHub Actions-white?style=flat&logo=githubactions&logoColor=black">
-               <img src="https://img.shields.io/badge/K8S-white?style=flat&logo=kubernetes&logoColor=blue">
-               <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
+               <img src="https://img.shields.io/badge/Terraform-purple?style=flat&logo=terraform&logoColor=white">
+               <img src="https://img.shields.io/badge/Ansible-white?style=flat&logo=ansible&logoColor=black">
+               <img src="https://img.shields.io/badge/Kubernetes-white?style=flat&logo=kubernetes&logoColor=blue">
             </a>
         </td>
         <td colspan="1" align="center">
@@ -61,7 +62,7 @@
           <a href="https://www.instagram.com/theguissan/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
           <a href="https://www.microsoft.com/software-download/windows11"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=blue"></a>
-          <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff"></a>
+          <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch Linux-white?style=flat&logo=arch-linux&logoColor=blue"></a>
         </td>
       </tr>
             <!-- <tr>
