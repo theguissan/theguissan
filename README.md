@@ -18,7 +18,7 @@
         </td>
         <td colspan="1" align="">
           <b><p>🎓 Bachelor in Computer Engineering at PUC-GO.</p></b>
-          <b><p>💻 Currently working as DevOps Engineer.</i><p>
+          <b><p>💻 Currently looking for work.</i><p>
           <b><p>💡 Luv software development (and music) in general.</p></b>
         </td>
       </tr>
